@@ -1,5 +1,5 @@
 <h1>Guess the Number</h1>
-  <img src="">
+  <img src="Guess_the_number.png">
   
 <h2>Description of the project</h2>
 <p>I make my first project in Node.js and my first project of Back-end. This project is simple but help me to understand and practice the things i have been learning about Node.js, where i learn about install a module and use chark and log things in the terminal.</p> 
