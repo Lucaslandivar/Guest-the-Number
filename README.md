@@ -5,7 +5,7 @@
 <p>I make my first project in Node.js and my first project of Back-end. This project is simple but help me to understand and practice the things i have been learning about Node.js, where i learn about install a module and use chark and log things in the terminal.</p> 
 
 <h2>Why i make this project?</h2>
-<p>I make this project so i can learn and practice Node.js in a fun way.</p>
+<p>I make this project so i can learn and practice Node.js while i have fun.</p>
 
 <h2>How does this project work?</h2>
 <P>In the terminal (where the game logs), there will be 3 options of tree different difficulties for the game: <br>The easiest mode:</br> the user have to guess a number between 1 to 10.<br>The medium mode:</br> the user have to guess a number between 1 to 50. <br>The hardest mode:</br> the user have to gess a number between 1 to 100. If the number is too high or to low, there will be a message for the user to help him guess the number. Once the user has hit the number, the number of attemps it takes will appear bellow the game.</p>
