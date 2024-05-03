@@ -15,7 +15,7 @@
 <p><b>Second step:</b> You can copy and paste the script in your index.js</p>
 <p><b>Third step:</b> In the terminal of your file in wich the game will be executed, write "node .\index.js" to iniciate the game.</p>
 <p><b>Fourth step:</b> To play this game you have to choose the difficult (between 1 to 3), write it and press the "Enter", then you will start playing.</p>
-<p>I suggest to take a look of my code if you can´t or have a trouble running the game.</p>
+<p>I suggest to take a look of my code if you can´t or have a trouble running the game. </p>
 
 <h2>Tecnologies</h2>
 <p>JavaScript</p>
